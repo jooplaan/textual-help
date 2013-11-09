@@ -9,5 +9,5 @@ This Applescript provides a /help command in Textual, displaying help informatio
 
 Installation
 
-* Copy this to ~/Library/Application Scripts/com.codeux.irc.textual
+* Copy help.scpt to ~/Library/Application Scripts/com.codeux.irc.textual (create it if it doesn't exist yet)
 * Run /help for options.
